@@ -1,0 +1,6 @@
+ gouse  ~  pip install --user wifi-password
+ gouse  ~  wifi-password
+[sudo] password for gouse: 
+password@gne
+get the code from github
+https://github.com/sdushantha/wifi-password`
